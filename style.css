@@ -3,3 +3,5 @@
 
 .sm-dialog-msg{font-size:12px;text-align:center;padding:4px 0;min-height:0}.sm-dialog-msg:empty{display:none}.sm-dialog-msg.bad{color:#d9534f}
 #sticker-manager-inline,#sticker-manager-inline *{box-sizing:border-box}#sticker-manager-inline{width:100%;max-width:100%;overflow-x:hidden}#sm-manager-root,.sm-wrap,#sm-dialog{min-width:0;max-width:100%}
+
+.sm-modal-bg{grid-column:1/-1}
